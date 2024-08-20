@@ -21,3 +21,6 @@ Belajar Kelas Memulai Pemograman dengan Java. (Progres 100)
 **23 Juni 2021**<br>
 Mencoba membuat aplikasi java pertama saya
 * Hari ini saya memulai untuk membuat aplikasi dengan bahasa Java pertama saya
+
+**26 Juni 2021**<br>
+Hari ini saya memulai untuk membuat aplikasi yang bagus dengan bahasa Java pertama saya
